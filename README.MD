@@ -8,3 +8,5 @@
 ´´´
 $python3 backtraking_p_a_p.py
 ´´´
+## Salida
+![Salida](salida.png)
